@@ -3,7 +3,7 @@ this project is degsigned for lingshan for Digital Human Guide。
 
 **灵山胜境 AI 数字人导游系统**
 
-**融合 Live2D 数字人、DeepSeek 大模型对话、GPT-SoVITS 语音合成****以及真实摄像头 + GPS + 方向传感器的 AR 实景导览，****为无锡灵山胜境打造沉浸式、个性化、多模态智能导览体验。**
+融合 Live2D 数字人、DeepSeek 大模型对话、GPT-SoVITS 语音合成以及真实摄像头 + GPS + 方向传感器的 AR 实景导览，为无锡灵山胜境打造沉浸式、个性化、多模态智能导览体验。
 # **目录**
 **一、项目概述**
 **二、行业痛点与产品定位**
